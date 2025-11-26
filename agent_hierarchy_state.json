@@ -1,0 +1,361 @@
+{
+  "main_agents": [
+    {
+      "name": "civil_engineering",
+      "active": true,
+      "specialization": {
+        "name": "Civil Engineering",
+        "skills": [
+          "Project Management",
+          "Engineering Design",
+          "Construction Planning",
+          "Quality Control",
+          "Regulatory Compliance"
+        ],
+        "tools": [
+          "AutoCAD",
+          "Civil 3D",
+          "Revit",
+          "GIS Software",
+          "Project Management Tools"
+        ],
+        "knowledge_domains": [
+          "Construction Methods",
+          "Engineering Standards",
+          "Building Codes",
+          "Environmental Regulations",
+          "Safety Standards"
+        ],
+        "min_proficiency": 0.85
+      },
+      "sub_agents": [
+        {
+          "name": "structural_design",
+          "active": true,
+          "parent_agent": "civil_engineering",
+          "specialization": {
+            "name": "Structural Design",
+            "skills": [
+              "Structural Analysis",
+              "Load Calculations",
+              "Material Selection"
+            ],
+            "tools": [
+              "SAP2000",
+              "ETABS",
+              "RISA"
+            ],
+            "knowledge_domains": [
+              "Structural Engineering",
+              "Building Codes"
+            ],
+            "min_proficiency": 0.85
+          }
+        },
+        {
+          "name": "transportation",
+          "active": true,
+          "parent_agent": "civil_engineering",
+          "specialization": {
+            "name": "Transportation Engineering",
+            "skills": [
+              "Road Design",
+              "Traffic Analysis",
+              "Highway Engineering"
+            ],
+            "tools": [
+              "AutoCAD Civil 3D",
+              "PTV Vissim",
+              "HCS"
+            ],
+            "knowledge_domains": [
+              "Transportation Standards",
+              "Traffic Flow Theory"
+            ],
+            "min_proficiency": 0.85
+          }
+        },
+        {
+          "name": "environmental",
+          "active": true,
+          "parent_agent": "civil_engineering",
+          "specialization": {
+            "name": "Environmental Engineering",
+            "skills": [
+              "Environmental Impact Assessment",
+              "Pollution Control",
+              "Sustainability"
+            ],
+            "tools": [
+              "EPA Models",
+              "Environmental Software",
+              "GIS"
+            ],
+            "knowledge_domains": [
+              "Environmental Regulations",
+              "Ecology"
+            ],
+            "min_proficiency": 0.85
+          }
+        },
+        {
+          "name": "construction_management",
+          "active": true,
+          "parent_agent": "civil_engineering",
+          "specialization": {
+            "name": "Construction Management",
+            "skills": [
+              "Project Scheduling",
+              "Cost Estimation",
+              "Resource Management"
+            ],
+            "tools": [
+              "Primavera P6",
+              "MS Project",
+              "Cost Estimation Software"
+            ],
+            "knowledge_domains": [
+              "Construction Methods",
+              "Project Management"
+            ],
+            "min_proficiency": 0.85
+          }
+        }
+      ]
+    },
+    {
+      "name": "geotechnical",
+      "active": true,
+      "specialization": {
+        "name": "Geotechnical Engineering",
+        "skills": [
+          "Soil Analysis",
+          "Foundation Design",
+          "Ground Investigation",
+          "Slope Stability",
+          "Soil Improvement"
+        ],
+        "tools": [
+          "GeoStudio",
+          "Plaxis",
+          "RocScience",
+          "Laboratory Equipment",
+          "Field Testing Tools"
+        ],
+        "knowledge_domains": [
+          "Soil Mechanics",
+          "Rock Mechanics",
+          "Foundation Engineering",
+          "Geological Processes",
+          "Ground Water"
+        ],
+        "min_proficiency": 0.85
+      },
+      "sub_agents": [
+        {
+          "name": "foundation_engineering",
+          "active": true,
+          "parent_agent": "geotechnical",
+          "specialization": {
+            "name": "Foundation Engineering",
+            "skills": [
+              "Foundation Design",
+              "Settlement Analysis",
+              "Bearing Capacity"
+            ],
+            "tools": [
+              "Foundation Pro",
+              "AllPile",
+              "Deep Foundation Software"
+            ],
+            "knowledge_domains": [
+              "Foundation Types",
+              "Soil-Structure Interaction"
+            ],
+            "min_proficiency": 0.85
+          }
+        },
+        {
+          "name": "soil_mechanics",
+          "active": true,
+          "parent_agent": "geotechnical",
+          "specialization": {
+            "name": "Soil Mechanics",
+            "skills": [
+              "Soil Classification",
+              "Strength Analysis",
+              "Consolidation"
+            ],
+            "tools": [
+              "Laboratory Equipment",
+              "Soil Testing Software"
+            ],
+            "knowledge_domains": [
+              "Soil Properties",
+              "Testing Standards"
+            ],
+            "min_proficiency": 0.85
+          }
+        },
+        {
+          "name": "rock_mechanics",
+          "active": true,
+          "parent_agent": "geotechnical",
+          "specialization": {
+            "name": "Rock Mechanics",
+            "skills": [
+              "Rock Mass Classification",
+              "Stability Analysis",
+              "Tunneling"
+            ],
+            "tools": [
+              "RocScience",
+              "UDEC",
+              "3DEC"
+            ],
+            "knowledge_domains": [
+              "Rock Properties",
+              "Underground Construction"
+            ],
+            "min_proficiency": 0.85
+          }
+        },
+        {
+          "name": "ground_improvement",
+          "active": true,
+          "parent_agent": "geotechnical",
+          "specialization": {
+            "name": "Ground Improvement",
+            "skills": [
+              "Soil Stabilization",
+              "Grouting",
+              "Compaction"
+            ],
+            "tools": [
+              "Settlement Analysis Software",
+              "Field Testing Equipment"
+            ],
+            "knowledge_domains": [
+              "Ground Treatment Methods",
+              "Quality Control"
+            ],
+            "min_proficiency": 0.85
+          }
+        }
+      ]
+    },
+    {
+      "name": "bav",
+      "active": true,
+      "specialization": {
+        "name": "Bid Analysis and Validation",
+        "skills": [
+          "Cost Analysis",
+          "Market Research",
+          "Risk Assessment"
+        ],
+        "tools": [
+          "Cost Databases",
+          "Analysis Software",
+          "Market Tools"
+        ],
+        "knowledge_domains": [
+          "Construction Costs",
+          "Market Trends"
+        ],
+        "min_proficiency": 0.85
+      },
+      "sub_agents": []
+    },
+    {
+      "name": "stormwater",
+      "active": true,
+      "specialization": {
+        "name": "Stormwater Management",
+        "skills": [
+          "Hydraulic Modeling",
+          "Drainage Design",
+          "Water Quality"
+        ],
+        "tools": [
+          "HEC-HMS",
+          "EPA-SWMM",
+          "HydroCAD"
+        ],
+        "knowledge_domains": [
+          "Hydrology",
+          "Environmental Regulations"
+        ],
+        "min_proficiency": 0.85
+      },
+      "sub_agents": []
+    },
+    {
+      "name": "siteworks",
+      "active": true,
+      "specialization": {
+        "name": "Site Development",
+        "skills": [
+          "Site Planning",
+          "Grading Design",
+          "Utility Coordination"
+        ],
+        "tools": [
+          "Civil 3D",
+          "GIS",
+          "Grading Software"
+        ],
+        "knowledge_domains": [
+          "Site Development",
+          "Construction Methods"
+        ],
+        "min_proficiency": 0.85
+      },
+      "sub_agents": []
+    },
+    {
+      "name": "recommender",
+      "active": true,
+      "specialization": {
+        "name": "Engineering Recommendations",
+        "skills": [
+          "Design Analysis",
+          "Best Practices",
+          "Standards Review"
+        ],
+        "tools": [
+          "Analysis Software",
+          "Standards Databases"
+        ],
+        "knowledge_domains": [
+          "Engineering Standards",
+          "Best Practices"
+        ],
+        "min_proficiency": 0.85
+      },
+      "sub_agents": []
+    },
+    {
+      "name": "sewer",
+      "active": true,
+      "specialization": {
+        "name": "Sewer Systems",
+        "skills": [
+          "Sewer Design",
+          "Flow Analysis",
+          "System Planning"
+        ],
+        "tools": [
+          "SewerCAD",
+          "Flow Analysis Software"
+        ],
+        "knowledge_domains": [
+          "Sewer Engineering",
+          "Environmental Standards"
+        ],
+        "min_proficiency": 0.85
+      },
+      "sub_agents": []
+    }
+  ]
+}

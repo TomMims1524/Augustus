@@ -1,0 +1,600 @@
+{
+  "timestamp": "2025-10-13 00:18:11",
+  "main_agents": {
+    "civil_engineering": {
+      "status": "active",
+      "training": {
+        "agent_id": "civil_engineering",
+        "module": "civil_3d",
+        "duration_hours": 8,
+        "skills": {
+          "3D Modeling": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:09"
+          },
+          "Surface Creation": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:09"
+          },
+          "Profile Design": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:09"
+          },
+          "Quantity Takeoff": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:09"
+          }
+        }
+      },
+      "timestamp": "2025-10-13 00:18:09"
+    },
+    "geotechnical": {
+      "status": "active",
+      "training": {
+        "agent_id": "geotechnical",
+        "module": "civil_3d",
+        "duration_hours": 8,
+        "skills": {
+          "3D Modeling": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:09"
+          },
+          "Surface Creation": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:09"
+          },
+          "Profile Design": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:09"
+          },
+          "Quantity Takeoff": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:09"
+          }
+        }
+      },
+      "timestamp": "2025-10-13 00:18:09"
+    },
+    "bav": {
+      "status": "active",
+      "training": {
+        "agent_id": "bav",
+        "module": "civil_3d",
+        "duration_hours": 8,
+        "skills": {
+          "3D Modeling": {
+            "current_level": 0.9999999999999999,
+            "target_level": 1.0,
+            "learning_hours": 80,
+            "practice_projects": 10,
+            "last_updated": "2025-10-13 00:18:09"
+          },
+          "Surface Creation": {
+            "current_level": 0.9999999999999999,
+            "target_level": 1.0,
+            "learning_hours": 80,
+            "practice_projects": 10,
+            "last_updated": "2025-10-13 00:18:09"
+          },
+          "Profile Design": {
+            "current_level": 0.9999999999999999,
+            "target_level": 1.0,
+            "learning_hours": 80,
+            "practice_projects": 10,
+            "last_updated": "2025-10-13 00:18:09"
+          },
+          "Quantity Takeoff": {
+            "current_level": 0.9999999999999999,
+            "target_level": 1.0,
+            "learning_hours": 80,
+            "practice_projects": 10,
+            "last_updated": "2025-10-13 00:18:09"
+          }
+        }
+      },
+      "timestamp": "2025-10-13 00:18:09"
+    },
+    "stormwater": {
+      "status": "active",
+      "training": {
+        "agent_id": "stormwater",
+        "module": "civil_3d",
+        "duration_hours": 8,
+        "skills": {
+          "3D Modeling": {
+            "current_level": 0.9999999999999999,
+            "target_level": 1.0,
+            "learning_hours": 80,
+            "practice_projects": 10,
+            "last_updated": "2025-10-13 00:18:10"
+          },
+          "Surface Creation": {
+            "current_level": 0.9999999999999999,
+            "target_level": 1.0,
+            "learning_hours": 80,
+            "practice_projects": 10,
+            "last_updated": "2025-10-13 00:18:10"
+          },
+          "Profile Design": {
+            "current_level": 0.9999999999999999,
+            "target_level": 1.0,
+            "learning_hours": 80,
+            "practice_projects": 10,
+            "last_updated": "2025-10-13 00:18:10"
+          },
+          "Quantity Takeoff": {
+            "current_level": 0.9999999999999999,
+            "target_level": 1.0,
+            "learning_hours": 80,
+            "practice_projects": 10,
+            "last_updated": "2025-10-13 00:18:10"
+          }
+        }
+      },
+      "timestamp": "2025-10-13 00:18:10"
+    },
+    "siteworks": {
+      "status": "active",
+      "training": {
+        "agent_id": "siteworks",
+        "module": "civil_3d",
+        "duration_hours": 8,
+        "skills": {
+          "3D Modeling": {
+            "current_level": 0.9999999999999999,
+            "target_level": 1.0,
+            "learning_hours": 80,
+            "practice_projects": 10,
+            "last_updated": "2025-10-13 00:18:10"
+          },
+          "Surface Creation": {
+            "current_level": 0.9999999999999999,
+            "target_level": 1.0,
+            "learning_hours": 80,
+            "practice_projects": 10,
+            "last_updated": "2025-10-13 00:18:10"
+          },
+          "Profile Design": {
+            "current_level": 0.9999999999999999,
+            "target_level": 1.0,
+            "learning_hours": 80,
+            "practice_projects": 10,
+            "last_updated": "2025-10-13 00:18:10"
+          },
+          "Quantity Takeoff": {
+            "current_level": 0.9999999999999999,
+            "target_level": 1.0,
+            "learning_hours": 80,
+            "practice_projects": 10,
+            "last_updated": "2025-10-13 00:18:10"
+          }
+        }
+      },
+      "timestamp": "2025-10-13 00:18:10"
+    },
+    "recommender": {
+      "status": "active",
+      "training": {
+        "agent_id": "recommender",
+        "module": "civil_3d",
+        "duration_hours": 8,
+        "skills": {
+          "3D Modeling": {
+            "current_level": 0.9999999999999999,
+            "target_level": 1.0,
+            "learning_hours": 80,
+            "practice_projects": 10,
+            "last_updated": "2025-10-13 00:18:10"
+          },
+          "Surface Creation": {
+            "current_level": 0.9999999999999999,
+            "target_level": 1.0,
+            "learning_hours": 80,
+            "practice_projects": 10,
+            "last_updated": "2025-10-13 00:18:10"
+          },
+          "Profile Design": {
+            "current_level": 0.9999999999999999,
+            "target_level": 1.0,
+            "learning_hours": 80,
+            "practice_projects": 10,
+            "last_updated": "2025-10-13 00:18:10"
+          },
+          "Quantity Takeoff": {
+            "current_level": 0.9999999999999999,
+            "target_level": 1.0,
+            "learning_hours": 80,
+            "practice_projects": 10,
+            "last_updated": "2025-10-13 00:18:10"
+          }
+        }
+      },
+      "timestamp": "2025-10-13 00:18:10"
+    },
+    "sewer": {
+      "status": "active",
+      "training": {
+        "agent_id": "sewer",
+        "module": "civil_3d",
+        "duration_hours": 8,
+        "skills": {
+          "3D Modeling": {
+            "current_level": 0.9999999999999999,
+            "target_level": 1.0,
+            "learning_hours": 80,
+            "practice_projects": 10,
+            "last_updated": "2025-10-13 00:18:10"
+          },
+          "Surface Creation": {
+            "current_level": 0.9999999999999999,
+            "target_level": 1.0,
+            "learning_hours": 80,
+            "practice_projects": 10,
+            "last_updated": "2025-10-13 00:18:10"
+          },
+          "Profile Design": {
+            "current_level": 0.9999999999999999,
+            "target_level": 1.0,
+            "learning_hours": 80,
+            "practice_projects": 10,
+            "last_updated": "2025-10-13 00:18:10"
+          },
+          "Quantity Takeoff": {
+            "current_level": 0.9999999999999999,
+            "target_level": 1.0,
+            "learning_hours": 80,
+            "practice_projects": 10,
+            "last_updated": "2025-10-13 00:18:10"
+          }
+        }
+      },
+      "timestamp": "2025-10-13 00:18:10"
+    }
+  },
+  "sub_agents": {
+    "structural_design": {
+      "status": "active",
+      "training": {
+        "agent_id": "structural_design",
+        "module": "civil_3d",
+        "duration_hours": 8,
+        "skills": {
+          "3D Modeling": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:10"
+          },
+          "Surface Creation": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:10"
+          },
+          "Profile Design": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:10"
+          },
+          "Quantity Takeoff": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:10"
+          }
+        }
+      },
+      "parent_agent": "civil_engineering",
+      "timestamp": "2025-10-13 00:18:10"
+    },
+    "transportation": {
+      "status": "active",
+      "training": {
+        "agent_id": "transportation",
+        "module": "civil_3d",
+        "duration_hours": 8,
+        "skills": {
+          "3D Modeling": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:10"
+          },
+          "Surface Creation": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:10"
+          },
+          "Profile Design": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:10"
+          },
+          "Quantity Takeoff": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:10"
+          }
+        }
+      },
+      "parent_agent": "civil_engineering",
+      "timestamp": "2025-10-13 00:18:10"
+    },
+    "environmental": {
+      "status": "active",
+      "training": {
+        "agent_id": "environmental",
+        "module": "civil_3d",
+        "duration_hours": 8,
+        "skills": {
+          "3D Modeling": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:10"
+          },
+          "Surface Creation": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:10"
+          },
+          "Profile Design": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:10"
+          },
+          "Quantity Takeoff": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:10"
+          }
+        }
+      },
+      "parent_agent": "civil_engineering",
+      "timestamp": "2025-10-13 00:18:10"
+    },
+    "construction_management": {
+      "status": "active",
+      "training": {
+        "agent_id": "construction_management",
+        "module": "civil_3d",
+        "duration_hours": 8,
+        "skills": {
+          "3D Modeling": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:11"
+          },
+          "Surface Creation": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:11"
+          },
+          "Profile Design": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:11"
+          },
+          "Quantity Takeoff": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:11"
+          }
+        }
+      },
+      "parent_agent": "civil_engineering",
+      "timestamp": "2025-10-13 00:18:11"
+    },
+    "foundation_engineering": {
+      "status": "active",
+      "training": {
+        "agent_id": "foundation_engineering",
+        "module": "civil_3d",
+        "duration_hours": 8,
+        "skills": {
+          "3D Modeling": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:11"
+          },
+          "Surface Creation": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:11"
+          },
+          "Profile Design": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:11"
+          },
+          "Quantity Takeoff": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:11"
+          }
+        }
+      },
+      "parent_agent": "geotechnical",
+      "timestamp": "2025-10-13 00:18:11"
+    },
+    "soil_mechanics": {
+      "status": "active",
+      "training": {
+        "agent_id": "soil_mechanics",
+        "module": "civil_3d",
+        "duration_hours": 8,
+        "skills": {
+          "3D Modeling": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:11"
+          },
+          "Surface Creation": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:11"
+          },
+          "Profile Design": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:11"
+          },
+          "Quantity Takeoff": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:11"
+          }
+        }
+      },
+      "parent_agent": "geotechnical",
+      "timestamp": "2025-10-13 00:18:11"
+    },
+    "rock_mechanics": {
+      "status": "active",
+      "training": {
+        "agent_id": "rock_mechanics",
+        "module": "civil_3d",
+        "duration_hours": 8,
+        "skills": {
+          "3D Modeling": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:11"
+          },
+          "Surface Creation": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:11"
+          },
+          "Profile Design": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:11"
+          },
+          "Quantity Takeoff": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:11"
+          }
+        }
+      },
+      "parent_agent": "geotechnical",
+      "timestamp": "2025-10-13 00:18:11"
+    },
+    "ground_improvement": {
+      "status": "active",
+      "training": {
+        "agent_id": "ground_improvement",
+        "module": "civil_3d",
+        "duration_hours": 8,
+        "skills": {
+          "3D Modeling": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:11"
+          },
+          "Surface Creation": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:11"
+          },
+          "Profile Design": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:11"
+          },
+          "Quantity Takeoff": {
+            "current_level": 0.1,
+            "target_level": 1.0,
+            "learning_hours": 8,
+            "practice_projects": 1,
+            "last_updated": "2025-10-13 00:18:11"
+          }
+        }
+      },
+      "parent_agent": "geotechnical",
+      "timestamp": "2025-10-13 00:18:11"
+    }
+  }
+}
