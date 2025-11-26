@@ -1,0 +1,740 @@
+{
+  "timestamp": "2025-10-13 00:18:43",
+  "results": {
+    "civil_engineering": {
+      "status": "completed",
+      "summary": {
+        "agent_id": "civil_engineering",
+        "status": "In progress",
+        "modules": {
+          "autocad_basics": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "2D Drawing": 0.8999999999999999,
+              "Command Line Usage": 0.8999999999999999,
+              "Layer Management": 0.8999999999999999,
+              "File Management": 0.8999999999999999
+            }
+          },
+          "civil_3d": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "3D Modeling": 0.8999999999999999,
+              "Surface Creation": 0.8999999999999999,
+              "Profile Design": 0.8999999999999999,
+              "Quantity Takeoff": 0.8999999999999999
+            }
+          },
+          "site_planning": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Site Assessment": 0.8999999999999999,
+              "Code Compliance": 0.8999999999999999,
+              "Constraint Analysis": 0.8999999999999999,
+              "Design Standards": 0.8999999999999999
+            }
+          },
+          "infrastructure_design": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Network Design": 0.8999999999999999,
+              "Capacity Analysis": 0.8999999999999999,
+              "Standards Compliance": 0.8999999999999999,
+              "Detail Development": 0.8999999999999999
+            }
+          }
+        }
+      }
+    },
+    "geotechnical": {
+      "status": "completed",
+      "summary": {
+        "agent_id": "geotechnical",
+        "status": "In progress",
+        "modules": {
+          "autocad_basics": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "2D Drawing": 0.8999999999999999,
+              "Command Line Usage": 0.8999999999999999,
+              "Layer Management": 0.8999999999999999,
+              "File Management": 0.8999999999999999
+            }
+          },
+          "civil_3d": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "3D Modeling": 0.8999999999999999,
+              "Surface Creation": 0.8999999999999999,
+              "Profile Design": 0.8999999999999999,
+              "Quantity Takeoff": 0.8999999999999999
+            }
+          },
+          "site_planning": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Site Assessment": 0.8999999999999999,
+              "Code Compliance": 0.8999999999999999,
+              "Constraint Analysis": 0.8999999999999999,
+              "Design Standards": 0.8999999999999999
+            }
+          },
+          "infrastructure_design": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Network Design": 0.8999999999999999,
+              "Capacity Analysis": 0.8999999999999999,
+              "Standards Compliance": 0.8999999999999999,
+              "Detail Development": 0.8999999999999999
+            }
+          }
+        }
+      }
+    },
+    "bav": {
+      "status": "completed",
+      "summary": {
+        "agent_id": "bav",
+        "status": "In progress",
+        "modules": {
+          "autocad_basics": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "2D Drawing": 0.8999999999999999,
+              "Command Line Usage": 0.8999999999999999,
+              "Layer Management": 0.8999999999999999,
+              "File Management": 0.8999999999999999
+            }
+          },
+          "civil_3d": {
+            "proficiency": 0.9999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "3D Modeling": 0.9999999999999999,
+              "Surface Creation": 0.9999999999999999,
+              "Profile Design": 0.9999999999999999,
+              "Quantity Takeoff": 0.9999999999999999
+            }
+          },
+          "site_planning": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Site Assessment": 0.8999999999999999,
+              "Code Compliance": 0.8999999999999999,
+              "Constraint Analysis": 0.8999999999999999,
+              "Design Standards": 0.8999999999999999
+            }
+          },
+          "infrastructure_design": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Network Design": 0.8999999999999999,
+              "Capacity Analysis": 0.8999999999999999,
+              "Standards Compliance": 0.8999999999999999,
+              "Detail Development": 0.8999999999999999
+            }
+          }
+        }
+      }
+    },
+    "stormwater": {
+      "status": "completed",
+      "summary": {
+        "agent_id": "stormwater",
+        "status": "In progress",
+        "modules": {
+          "autocad_basics": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "2D Drawing": 0.8999999999999999,
+              "Command Line Usage": 0.8999999999999999,
+              "Layer Management": 0.8999999999999999,
+              "File Management": 0.8999999999999999
+            }
+          },
+          "civil_3d": {
+            "proficiency": 0.9999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "3D Modeling": 0.9999999999999999,
+              "Surface Creation": 0.9999999999999999,
+              "Profile Design": 0.9999999999999999,
+              "Quantity Takeoff": 0.9999999999999999
+            }
+          },
+          "site_planning": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Site Assessment": 0.8999999999999999,
+              "Code Compliance": 0.8999999999999999,
+              "Constraint Analysis": 0.8999999999999999,
+              "Design Standards": 0.8999999999999999
+            }
+          },
+          "infrastructure_design": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Network Design": 0.8999999999999999,
+              "Capacity Analysis": 0.8999999999999999,
+              "Standards Compliance": 0.8999999999999999,
+              "Detail Development": 0.8999999999999999
+            }
+          }
+        }
+      }
+    },
+    "siteworks": {
+      "status": "completed",
+      "summary": {
+        "agent_id": "siteworks",
+        "status": "In progress",
+        "modules": {
+          "autocad_basics": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "2D Drawing": 0.8999999999999999,
+              "Command Line Usage": 0.8999999999999999,
+              "Layer Management": 0.8999999999999999,
+              "File Management": 0.8999999999999999
+            }
+          },
+          "civil_3d": {
+            "proficiency": 0.9999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "3D Modeling": 0.9999999999999999,
+              "Surface Creation": 0.9999999999999999,
+              "Profile Design": 0.9999999999999999,
+              "Quantity Takeoff": 0.9999999999999999
+            }
+          },
+          "site_planning": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Site Assessment": 0.8999999999999999,
+              "Code Compliance": 0.8999999999999999,
+              "Constraint Analysis": 0.8999999999999999,
+              "Design Standards": 0.8999999999999999
+            }
+          },
+          "infrastructure_design": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Network Design": 0.8999999999999999,
+              "Capacity Analysis": 0.8999999999999999,
+              "Standards Compliance": 0.8999999999999999,
+              "Detail Development": 0.8999999999999999
+            }
+          }
+        }
+      }
+    },
+    "recommender": {
+      "status": "completed",
+      "summary": {
+        "agent_id": "recommender",
+        "status": "In progress",
+        "modules": {
+          "autocad_basics": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "2D Drawing": 0.8999999999999999,
+              "Command Line Usage": 0.8999999999999999,
+              "Layer Management": 0.8999999999999999,
+              "File Management": 0.8999999999999999
+            }
+          },
+          "civil_3d": {
+            "proficiency": 0.9999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "3D Modeling": 0.9999999999999999,
+              "Surface Creation": 0.9999999999999999,
+              "Profile Design": 0.9999999999999999,
+              "Quantity Takeoff": 0.9999999999999999
+            }
+          },
+          "site_planning": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Site Assessment": 0.8999999999999999,
+              "Code Compliance": 0.8999999999999999,
+              "Constraint Analysis": 0.8999999999999999,
+              "Design Standards": 0.8999999999999999
+            }
+          },
+          "infrastructure_design": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Network Design": 0.8999999999999999,
+              "Capacity Analysis": 0.8999999999999999,
+              "Standards Compliance": 0.8999999999999999,
+              "Detail Development": 0.8999999999999999
+            }
+          }
+        }
+      }
+    },
+    "sewer": {
+      "status": "completed",
+      "summary": {
+        "agent_id": "sewer",
+        "status": "In progress",
+        "modules": {
+          "autocad_basics": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "2D Drawing": 0.8999999999999999,
+              "Command Line Usage": 0.8999999999999999,
+              "Layer Management": 0.8999999999999999,
+              "File Management": 0.8999999999999999
+            }
+          },
+          "civil_3d": {
+            "proficiency": 0.9999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "3D Modeling": 0.9999999999999999,
+              "Surface Creation": 0.9999999999999999,
+              "Profile Design": 0.9999999999999999,
+              "Quantity Takeoff": 0.9999999999999999
+            }
+          },
+          "site_planning": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Site Assessment": 0.8999999999999999,
+              "Code Compliance": 0.8999999999999999,
+              "Constraint Analysis": 0.8999999999999999,
+              "Design Standards": 0.8999999999999999
+            }
+          },
+          "infrastructure_design": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Network Design": 0.8999999999999999,
+              "Capacity Analysis": 0.8999999999999999,
+              "Standards Compliance": 0.8999999999999999,
+              "Detail Development": 0.8999999999999999
+            }
+          }
+        }
+      }
+    },
+    "structural_design": {
+      "status": "completed",
+      "summary": {
+        "agent_id": "structural_design",
+        "status": "In progress",
+        "modules": {
+          "autocad_basics": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "2D Drawing": 0.8999999999999999,
+              "Command Line Usage": 0.8999999999999999,
+              "Layer Management": 0.8999999999999999,
+              "File Management": 0.8999999999999999
+            }
+          },
+          "civil_3d": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "3D Modeling": 0.8999999999999999,
+              "Surface Creation": 0.8999999999999999,
+              "Profile Design": 0.8999999999999999,
+              "Quantity Takeoff": 0.8999999999999999
+            }
+          },
+          "site_planning": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Site Assessment": 0.8999999999999999,
+              "Code Compliance": 0.8999999999999999,
+              "Constraint Analysis": 0.8999999999999999,
+              "Design Standards": 0.8999999999999999
+            }
+          },
+          "infrastructure_design": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Network Design": 0.8999999999999999,
+              "Capacity Analysis": 0.8999999999999999,
+              "Standards Compliance": 0.8999999999999999,
+              "Detail Development": 0.8999999999999999
+            }
+          }
+        }
+      }
+    },
+    "transportation": {
+      "status": "completed",
+      "summary": {
+        "agent_id": "transportation",
+        "status": "In progress",
+        "modules": {
+          "autocad_basics": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "2D Drawing": 0.8999999999999999,
+              "Command Line Usage": 0.8999999999999999,
+              "Layer Management": 0.8999999999999999,
+              "File Management": 0.8999999999999999
+            }
+          },
+          "civil_3d": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "3D Modeling": 0.8999999999999999,
+              "Surface Creation": 0.8999999999999999,
+              "Profile Design": 0.8999999999999999,
+              "Quantity Takeoff": 0.8999999999999999
+            }
+          },
+          "site_planning": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Site Assessment": 0.8999999999999999,
+              "Code Compliance": 0.8999999999999999,
+              "Constraint Analysis": 0.8999999999999999,
+              "Design Standards": 0.8999999999999999
+            }
+          },
+          "infrastructure_design": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Network Design": 0.8999999999999999,
+              "Capacity Analysis": 0.8999999999999999,
+              "Standards Compliance": 0.8999999999999999,
+              "Detail Development": 0.8999999999999999
+            }
+          }
+        }
+      }
+    },
+    "environmental": {
+      "status": "completed",
+      "summary": {
+        "agent_id": "environmental",
+        "status": "In progress",
+        "modules": {
+          "autocad_basics": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "2D Drawing": 0.8999999999999999,
+              "Command Line Usage": 0.8999999999999999,
+              "Layer Management": 0.8999999999999999,
+              "File Management": 0.8999999999999999
+            }
+          },
+          "civil_3d": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "3D Modeling": 0.8999999999999999,
+              "Surface Creation": 0.8999999999999999,
+              "Profile Design": 0.8999999999999999,
+              "Quantity Takeoff": 0.8999999999999999
+            }
+          },
+          "site_planning": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Site Assessment": 0.8999999999999999,
+              "Code Compliance": 0.8999999999999999,
+              "Constraint Analysis": 0.8999999999999999,
+              "Design Standards": 0.8999999999999999
+            }
+          },
+          "infrastructure_design": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Network Design": 0.8999999999999999,
+              "Capacity Analysis": 0.8999999999999999,
+              "Standards Compliance": 0.8999999999999999,
+              "Detail Development": 0.8999999999999999
+            }
+          }
+        }
+      }
+    },
+    "construction_management": {
+      "status": "completed",
+      "summary": {
+        "agent_id": "construction_management",
+        "status": "In progress",
+        "modules": {
+          "autocad_basics": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "2D Drawing": 0.8999999999999999,
+              "Command Line Usage": 0.8999999999999999,
+              "Layer Management": 0.8999999999999999,
+              "File Management": 0.8999999999999999
+            }
+          },
+          "civil_3d": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "3D Modeling": 0.8999999999999999,
+              "Surface Creation": 0.8999999999999999,
+              "Profile Design": 0.8999999999999999,
+              "Quantity Takeoff": 0.8999999999999999
+            }
+          },
+          "site_planning": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Site Assessment": 0.8999999999999999,
+              "Code Compliance": 0.8999999999999999,
+              "Constraint Analysis": 0.8999999999999999,
+              "Design Standards": 0.8999999999999999
+            }
+          },
+          "infrastructure_design": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Network Design": 0.8999999999999999,
+              "Capacity Analysis": 0.8999999999999999,
+              "Standards Compliance": 0.8999999999999999,
+              "Detail Development": 0.8999999999999999
+            }
+          }
+        }
+      }
+    },
+    "foundation_engineering": {
+      "status": "completed",
+      "summary": {
+        "agent_id": "foundation_engineering",
+        "status": "In progress",
+        "modules": {
+          "autocad_basics": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "2D Drawing": 0.8999999999999999,
+              "Command Line Usage": 0.8999999999999999,
+              "Layer Management": 0.8999999999999999,
+              "File Management": 0.8999999999999999
+            }
+          },
+          "civil_3d": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "3D Modeling": 0.8999999999999999,
+              "Surface Creation": 0.8999999999999999,
+              "Profile Design": 0.8999999999999999,
+              "Quantity Takeoff": 0.8999999999999999
+            }
+          },
+          "site_planning": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Site Assessment": 0.8999999999999999,
+              "Code Compliance": 0.8999999999999999,
+              "Constraint Analysis": 0.8999999999999999,
+              "Design Standards": 0.8999999999999999
+            }
+          },
+          "infrastructure_design": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Network Design": 0.8999999999999999,
+              "Capacity Analysis": 0.8999999999999999,
+              "Standards Compliance": 0.8999999999999999,
+              "Detail Development": 0.8999999999999999
+            }
+          }
+        }
+      }
+    },
+    "soil_mechanics": {
+      "status": "completed",
+      "summary": {
+        "agent_id": "soil_mechanics",
+        "status": "In progress",
+        "modules": {
+          "autocad_basics": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "2D Drawing": 0.8999999999999999,
+              "Command Line Usage": 0.8999999999999999,
+              "Layer Management": 0.8999999999999999,
+              "File Management": 0.8999999999999999
+            }
+          },
+          "civil_3d": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "3D Modeling": 0.8999999999999999,
+              "Surface Creation": 0.8999999999999999,
+              "Profile Design": 0.8999999999999999,
+              "Quantity Takeoff": 0.8999999999999999
+            }
+          },
+          "site_planning": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Site Assessment": 0.8999999999999999,
+              "Code Compliance": 0.8999999999999999,
+              "Constraint Analysis": 0.8999999999999999,
+              "Design Standards": 0.8999999999999999
+            }
+          },
+          "infrastructure_design": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Network Design": 0.8999999999999999,
+              "Capacity Analysis": 0.8999999999999999,
+              "Standards Compliance": 0.8999999999999999,
+              "Detail Development": 0.8999999999999999
+            }
+          }
+        }
+      }
+    },
+    "rock_mechanics": {
+      "status": "completed",
+      "summary": {
+        "agent_id": "rock_mechanics",
+        "status": "In progress",
+        "modules": {
+          "autocad_basics": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "2D Drawing": 0.8999999999999999,
+              "Command Line Usage": 0.8999999999999999,
+              "Layer Management": 0.8999999999999999,
+              "File Management": 0.8999999999999999
+            }
+          },
+          "civil_3d": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "3D Modeling": 0.8999999999999999,
+              "Surface Creation": 0.8999999999999999,
+              "Profile Design": 0.8999999999999999,
+              "Quantity Takeoff": 0.8999999999999999
+            }
+          },
+          "site_planning": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Site Assessment": 0.8999999999999999,
+              "Code Compliance": 0.8999999999999999,
+              "Constraint Analysis": 0.8999999999999999,
+              "Design Standards": 0.8999999999999999
+            }
+          },
+          "infrastructure_design": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Network Design": 0.8999999999999999,
+              "Capacity Analysis": 0.8999999999999999,
+              "Standards Compliance": 0.8999999999999999,
+              "Detail Development": 0.8999999999999999
+            }
+          }
+        }
+      }
+    },
+    "ground_improvement": {
+      "status": "completed",
+      "summary": {
+        "agent_id": "ground_improvement",
+        "status": "In progress",
+        "modules": {
+          "autocad_basics": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "2D Drawing": 0.8999999999999999,
+              "Command Line Usage": 0.8999999999999999,
+              "Layer Management": 0.8999999999999999,
+              "File Management": 0.8999999999999999
+            }
+          },
+          "civil_3d": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "3D Modeling": 0.8999999999999999,
+              "Surface Creation": 0.8999999999999999,
+              "Profile Design": 0.8999999999999999,
+              "Quantity Takeoff": 0.8999999999999999
+            }
+          },
+          "site_planning": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Site Assessment": 0.8999999999999999,
+              "Code Compliance": 0.8999999999999999,
+              "Constraint Analysis": 0.8999999999999999,
+              "Design Standards": 0.8999999999999999
+            }
+          },
+          "infrastructure_design": {
+            "proficiency": 0.8999999999999999,
+            "is_expert": true,
+            "required_skills": {
+              "Network Design": 0.8999999999999999,
+              "Capacity Analysis": 0.8999999999999999,
+              "Standards Compliance": 0.8999999999999999,
+              "Detail Development": 0.8999999999999999
+            }
+          }
+        }
+      }
+    }
+  }
+}
